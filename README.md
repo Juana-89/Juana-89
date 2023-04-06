@@ -5,6 +5,6 @@
 -->
 - ✨ Mis skills son HTML, CSS, JS, React, Firebase, GitHub, Jest Js, un poco de Node Js, Corel Draw, Photoshop y Adobe Illustrator.
 - 🔭 Actualmente estoy construyendo una aplicación de notas con React.
-- 🌱 Estoy aprendiendo Vue, C#, SQL, Tailwind CSS, Material UI y sobre la cultura de Devops.
+- 🌱 Estoy aprendiendo C#, SQL, Tailwind CSS, Material UI y sobre la cultura de Devops.
 - 💬 Puedo conversar de todo un poco, más sobre gatos.
 - ⚡ Y disfruto programar mientras escucho buena música, mi fiel compañera. 🤘🏻
